@@ -1,0 +1,272 @@
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\bin\Debug\STARSOrg.exe.config
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\bin\Debug\STARSOrg.exe
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\bin\Debug\STARSOrg.pdb
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\bin\Debug\STARSOrg.xml
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.AssemblyReference.cache
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmMain.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\obj\Debug\STARSOrg.Resources.resources
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.GenerateResource.cache
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.CoreCompileInputs.cache
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\obj\Debug\STARSOrg.exe
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\obj\Debug\STARSOrg.xml
+\\buffalo.cs.fiu.edu\homes\Documents\Windows Programming for IT Majors\STARSOrg\STARSOrg\obj\Debug\STARSOrg.pdb
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\STARSOrg.exe.config
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\STARSOrg.exe
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\STARSOrg.pdb
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\STARSOrg.xml
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.AssemblyReference.cache
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmMain.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.Resources.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.GenerateResource.cache
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.CoreCompileInputs.cache
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.exe
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.xml
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.pdb
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmRole.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.AssemblyReference.cache
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmMain.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmRole.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.Resources.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.GenerateResource.cache
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.CoreCompileInputs.cache
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.exe
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.xml
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.pdb
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\STARSOrg.exe.config
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\STARSOrg.exe
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\STARSOrg.pdb
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\STARSOrg.xml
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\EnvDTE.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\stdole.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.MSXML.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmRoleReport.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\RdlCompile.cache
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\RdlCompile.compiled
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.CopyComplete
+D:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Reports\rptRoleReport.rdlc
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmLogin.resources
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Reports\rptRoleReport.rdlc
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\EnvDTE.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\stdole.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\Microsoft.MSXML.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmLogin.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmRoleReport.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.CopyComplete
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmChangePassword.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmChangePassword.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmAdmin.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmChangeCredentials.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmCourse.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmCourseReport.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmSemester.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmSemesterReport.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmMember.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmMemberReport.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmAdmin.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmChangeCredentials.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmCourse.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmCourseReport.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmMember.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmMemberReport.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmSemester.resources
+D:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmSemesterReport.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmEvent.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmRepot.resources
+E:\Windows Programming\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmRSVP.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.AssemblyReference.cache
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.exe
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.xml
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.pdb
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmAdmin.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmChangeCredentials.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmChangePassword.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmCourse.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmCourseReport.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmLogin.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmMain.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmMember.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmMemberReport.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmRepot.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmRole.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmRoleReport.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmRSVP.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmSemester.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmSemesterReport.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.Resources.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.GenerateResource.cache
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Reports\rptRoleReport.rdlc
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\STARSOrg.exe.config
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\STARSOrg.exe
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\STARSOrg.pdb
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\STARSOrg.xml
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\EnvDTE.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\stdole.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\Microsoft.MSXML.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.frmEvent.resources
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.CoreCompileInputs.cache
+C:\Users\eadam\Downloads\STARSOrg\STARSOrg\obj\Debug\STARSOrg.vbproj.CopyComplete
